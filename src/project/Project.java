@@ -360,7 +360,7 @@ public static void main(String[] args) {
         if (strPhoneNum[data] == null) {
             System.out.println("Phone Number: ");
         } else {
-            System.out.println("Phone Number: " + strPhoneNum[data]);
+            System.out.println("Phone Number: " + strPhoneNum[data] + count);
         }
         
         if (strEmail[data] == null) {
